@@ -1,0 +1,8 @@
+{
+  "name": "lua-host",
+  "version": "1.0.0",
+  "description": "Host Lua scripts with loadstring URLs",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
